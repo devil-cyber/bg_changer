@@ -2,10 +2,16 @@
 ### Basic flutter app to get started with android and ios devlopment
 
 #### This app contains a list of color whose index number is refrebced by a random number generator function:
-## App look something like:
-<img src="image/Screenshot_20201005_083642.jpg"/>
-<img src="image/Screenshot_20201005_083656.jpg"/>
-<img src="image/Screenshot_20201005_083656.jpg"/>
+## App look something like
+<style>
+ img{
+ display:inline-block;
+ }
+</style>
+
+<img src="image/Screenshot_20201005_083642.jpg" width="200" height="300"/>
+<img src="image/Screenshot_20201005_083656.jpg" width="200" height="300"/>
+<img src="image/Screenshot_20201005_083649.jpg" width="200" height="300"/>
  
  
 
