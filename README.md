@@ -1,6 +1,13 @@
-# bg_changer
+# Random Background Changer
+### Basic flutter app to get started with android and ios devlopment
 
-A new Flutter project.
+#### This app contains a list of color whose index number is refrebced by a random number generator function:
+## App look something like:
+![image1](image/Screenshot_20201005_083642.jpg)
+![image1](image/Screenshot_20201005_083649.jpg)
+![image1](image/Screenshot_20201005_083656.jpg)
+
+
 
 ## Getting Started
 
