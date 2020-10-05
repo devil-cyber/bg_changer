@@ -3,7 +3,7 @@
 
 #### This app contains a list of color whose index number is refrebced by a random number generator function:
 ## App look something like:
-![image1 | 50x50,20%]](image/Screenshot_20201005_083642.jpg =20x)
+![image1|50x50,20%](image/Screenshot_20201005_083642.jpg)
 ![image1](image/Screenshot_20201005_083649.jpg)
 ![image1](image/Screenshot_20201005_083656.jpg)
  
